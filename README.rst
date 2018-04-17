@@ -50,7 +50,7 @@ Documentation
 Configuration
 ~~~~~~~~~~~~~
 
-This checks pack is using the `check_tcp` Nagios (or Monitoring) plugin that must be installed on the Alignak server running your poller daemon. You may install the `alignak-checks-monitoring` package (see the `corresponding repo <https://github.com/alignak-monitoring-contrib/alignak-checks-monitoring/issues>`_).
+This checks pack is using the `check_tcp` Nagios (or Monitoring) plugin that must be installed on the Alignak server running your poller daemon. You may install the `alignak-checks-monitoring` package (see the `corresponding repo <https://github.com/alignak-monitoring-contrib/alignak-checks-monitoring>`_).
 
 
 
