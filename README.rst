@@ -75,6 +75,16 @@ For a Linux monitored host, you simply have to tag the concerned host with the t
     }
 
 
+When using the alignak backend, use the `setup.sh` script provided in the *json/elasticsearch* directory to include all the package information into your backend
+::
+
+    # Backend configuration
+    $ json/elasticsearch/setup.sh -b http://127.0.0.1:5000 -u admin -p admin
+
+
+**Note** that this command line is executed when installing the package from *pip*. If your backend is not set locally, you can specify its address thanks to the `-b` command line parameter.
+
+
 
 Bugs, issues and contributing
 -----------------------------
