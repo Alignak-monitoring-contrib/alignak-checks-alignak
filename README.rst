@@ -4,7 +4,7 @@ Alignak checks package for Alignak daemons
 *Checks pack for monitoring Alignak daemons with the Nagios monitoring check_tcp*
 
 
-.. image:: https://badge.fury.io/py/alignak_checks_nrpe.svg
+.. image:: https://badge.fury.io/py/alignak_checks_alignak.svg
     :target: https://badge.fury.io/py/alignak-checks-alignak
     :alt: Most recent PyPi version
 
