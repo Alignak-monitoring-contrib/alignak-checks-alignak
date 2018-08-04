@@ -95,7 +95,7 @@ for subdir, dirs, files in os.walk(package_name):
                                      "", subdir))
     # Configuration directory
     elif 'etc' in subdir:
-        target = os.path.join('etc/alignak',
+        target = os.path.join('share/alignak/etc',
                               re.sub(r"^(%s\/|%s$)" % (
                                   os.path.join(package_name, 'etc'),
                                   os.path.join(package_name, 'etc')),
