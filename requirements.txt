@@ -1,2 +1,2 @@
-# Alignak checks monitoring
-alignak-checks-monitoring
+# Some requirements
+requests
